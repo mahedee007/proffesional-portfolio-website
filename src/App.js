@@ -6,11 +6,13 @@ import {
   
 } from "react-router-dom";
 import Home from './Pages/Home/Home';
+import ParticlesBacground from './Pages/ParticlesBacground';
 
 function App() {
   return (
     <>
     <Router>
+      <ParticlesBacground/>
       <Switch>
         <Route exact path='/'>
           <Home/>
