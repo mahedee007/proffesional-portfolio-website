@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500;600;700;800&family=Roboto+Condensed&family=Roboto:wght@400;500;700;900&display=swap');
+.header_bg{
+    background: grey;
+}
+.nav-list{
+    padding-left: 60px !important;
+}
+.logo{
+    font-family:'Lobster', cursive;
+    font-size: 1.5rem;
+}
+.logo:hover{
+    color: orange !important;
+}
+.menu-item{
+    font-family: 'Roboto Condensed', sans-serif ; 
+    color: #fff !important;
+    padding-right: 60px !important;
+    
+    
+    
+}
+.menu-item:hover{
+   
+    color: orange !important;
+}
